@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout   xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="#F9F9F9"
+    android:orientation="vertical"
+    android:padding="16sp"
+    tools:context=".view.PauseActivity">
+
+    <pl.bclogic.pulsator4droid.library.PulsatorLayout
+        android:id="@+id/pulsator"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:pulse_color="#BFBFBF"
+        app:pulse_count="5"
+        app:pulse_duration="2500"
+        app:pulse_interpolator="Linear"
+        app:pulse_repeat="0"
+        app:pulse_startFromScratch="false">
+
+        <ImageView
+            android:id="@+id/iv_punch"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/punch_button" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_punch"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/poppins"
+            android:gravity="center"
+            android:text="The camera enters power saving mode
+Double click\non the screen to wake up"
+            android:textAllCaps="true"
+            android:textColor="#94000000"
+            android:textSize="12sp" />
+    </pl.bclogic.pulsator4droid.library.PulsatorLayout>
+
+
+</RelativeLayout>
+
