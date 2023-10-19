@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hypernym.smartsurveillance.app-mergeDebugResources-23:/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\Hypernym\\HN-APPS\\HyperNet Facial Recognition\\Smart Surviellance\\app\\src\\main\\res\\values-xlarge\\bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "42",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c47275a1a8ec85751278a7a492da68a2\\transformed\\appcompat-1.2.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "98,169,240,310,380,448",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "164,235,305,375,443,511"
+                    }
+                }
+            ]
+        }
+    ]
+}

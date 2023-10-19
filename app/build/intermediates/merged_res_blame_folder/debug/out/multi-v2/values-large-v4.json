@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hypernym.smartsurveillance.app-mergeDebugResources-23:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\Hypernym\\HN-APPS\\HyperNet Facial Recognition\\Smart Surviellance\\app\\src\\main\\res\\values-large\\bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "42",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2da652925656c753e6993882d5453b92\\transformed\\material-1.2.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "12,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "795,917",
+                        "endColumns": "121,133",
+                        "endOffsets": "912,1046"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c47275a1a8ec85751278a7a492da68a2\\transformed\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "98,157,228,299,369,439,507,575,679",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "152,223,294,364,434,502,570,674,790"
+                    }
+                }
+            ]
+        }
+    ]
+}

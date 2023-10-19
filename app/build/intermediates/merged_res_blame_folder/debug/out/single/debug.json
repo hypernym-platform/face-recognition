@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_item_group.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/item_group.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/font_poppinsbold.ttf.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/font/poppinsbold.ttf"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable-ldpi_login.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable-ldpi/login.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_item_face_with_checkbox.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/item_face_with_checkbox.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable-xxhdpi_login.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable-xxhdpi/login.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_hypernet.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/hypernet.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_person_lock.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/person_lock.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_dialog_simple.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/dialog_simple.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_item_person_group_with_checkbox.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/item_person_group_with_checkbox.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_slide_out_left.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable-hdpi_login.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_fadein.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/fadein.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_toolbar_layout.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_push_down_in.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/push_down_in.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_delete.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_item_face.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/item_face.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_slide_in_left.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_fragment_person_group.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/fragment_person_group.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_group_create_button.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_group_create_button.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_fragment_group.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/fragment_group.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_lock.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_dialog_lock.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/dialog_lock.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_fragment_admin.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/fragment_admin.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_dialog_create_group.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/dialog_create_group.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_edittext_backgroup.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_edittext_backgroup.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_push_up_in.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/push_up_in.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_blue_button_round_background.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_blue_button_round_background.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/font_poppins_semibold.ttf.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_select_image.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/select_image.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_launcher_round_hypernym.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_launcher_round_hypernym.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_enter.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/enter.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_push_down_out.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/push_down_out.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_person_with_lock.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_person_with_lock.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable-mdpi_login.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable-mdpi/login.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_add_face_to_person.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_add_face_to_person.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_inactive_button.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/inactive_button.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_punch_button.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/punch_button.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_settings.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_fragment_pause.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/fragment_pause.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_person_group_list.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_person_group_list.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_item_person.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/item_person.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_pause.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_pause.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_slide_out_right.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_fragment_enrollment.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/fragment_enrollment.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_group_name.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_group_name.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable-xhdpi_login.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable-xhdpi/login.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_person.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_person.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_exit.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/exit.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/font_poppins_light.ttf.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_select_image.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_select_image.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_frame.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_frame.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_gov.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/gov.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_dialog_group_name.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/dialog_group_name.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/menu_menu_delete_items.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/menu/menu_delete_items.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/font_poppins.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/font/poppins.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/font_poppinsregular.ttf.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/font/poppinsregular.ttf"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_button_background.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_add_circle.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_push_up_out.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/push_up_out.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_blue_button_background.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_blue_button_background.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_dialog_create_person.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/dialog_create_person.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_back_arrow.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_back_arrow.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_ic_close.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_active_button.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/active_button.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_hypernym_logo.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/hypernym_logo.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_content_main.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_fragment_attendance.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/fragment_attendance.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable-xxxhdpi_login.png.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable-xxxhdpi/login.png"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_item_person_group.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/item_person_group.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_slide_in_right.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/anim_fadeout.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/anim/fadeout.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/font_poppins_medium.ttf.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_person_group.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_person_group.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/drawable_custom_shape.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/drawable/custom_shape.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_menu.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_fragment_home.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/menu_app_toolbar_menu.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/menu/app_toolbar_menu.xml"
+    },
+    {
+        "merged": "com.hypernym.smartsurveillance.app-merged_res-25:/layout_activity_splash.xml.flat",
+        "source": "com.hypernym.smartsurveillance.app-main-27:/layout/activity_splash.xml"
+    }
+]
