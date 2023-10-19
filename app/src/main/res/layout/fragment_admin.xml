@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:filterTouchesWhenObscured="true">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/group"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/active_button"
+        android:elevation="10dp"
+        android:filterTouchesWhenObscured="true"
+        android:fontFamily="@font/poppins"
+        android:text="@string/Group"
+        android:layout_marginEnd="5dp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/enrollment"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/enrollment"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/inactive_button"
+        android:elevation="10dp"
+        android:filterTouchesWhenObscured="true"
+        android:fontFamily="@font/poppins"
+        android:text="@string/enrollment"
+        android:visibility="gone"
+        android:textAllCaps="false"
+        android:textColor="@color/Blue_theme"
+        app:layout_constraintEnd_toStartOf="@+id/attendance"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/group"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/attendance"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/inactive_button"
+        android:elevation="10dp"
+        android:layout_marginStart="5dp"
+        android:filterTouchesWhenObscured="true"
+        android:fontFamily="@font/poppins"
+        android:text="@string/attendence"
+        android:textAllCaps="false"
+        android:textColor="@color/Blue_theme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/enrollment"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/dashboard_container"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:filterTouchesWhenObscured="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/group" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
